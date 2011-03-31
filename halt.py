@@ -12,13 +12,13 @@ while cmd != "exit":
 	cmd = raw_input(">> ")
 	if cmd == "greet":
 		print "Hello!"
-	elif cmd == "fuck":
-		print "Oh yes, do me hard!"
-	elif cmd == "rub":
-		print "Mmm, rub my cunt!"
-	elif cmd == "lick":
-		print "Ohh lick my pussy!"
+	elif cmd == "sandwich":
+		print "Ok, I'll go make you a sandwich."
+	elif cmd == "slap":
+		print "Ouch."
+	elif cmd == "feed":
+		print "Yum. Thanks."
 	elif cmd == "exit":
-		print "Bye!"
+		print "Cya!"
 	else:
 		print "What?"
